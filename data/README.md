@@ -1,0 +1,1 @@
+# Word2Vec modelini indirip bu klasörün içine atınız. [LINK](https://drive.google.com/open?id=1IBMTAGtZ4DakSCyAoA4j7Ch0Ft1aFoww)
